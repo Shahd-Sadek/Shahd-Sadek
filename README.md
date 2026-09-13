@@ -156,6 +156,7 @@ databases, APIs, and software development practices.
   <span style="color:#FFB703;">🚀 Currently</span>
 </h2>
 
+<div align="center">
 <p align="center">
 
 | 📖 Learning | 🔨 Building | 🧠 Improving | 🎯 Goal |
@@ -163,6 +164,7 @@ databases, APIs, and software development practices.
 | .NET Development | Web Applications | Problem Solving | Strong .NET Developer |
 
 </p>
+</div>
 
 ---
 
@@ -187,14 +189,7 @@ databases, APIs, and software development practices.
 </p>
 
 ---
-
-<p align="center">
-
-<img 
-  src="https://komarev.com/ghpvc/?username=ShahdSadek&label=Profile%20Views&color=6C63FF&style=flat"
-/>
-
-</p>
+ 
 
 <p align="center">
   <strong style="color:#6C63FF;">
