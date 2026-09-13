@@ -14,11 +14,11 @@
 </p>
 
 <p align="center">
-  <img 
-    src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true"
-    width="38%"
-    alt="Developer working"
-  />
+<img 
+  src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/girl.gif"
+  width="38%"
+  alt="Female Developer"
+/>
 </p>
 
 <p align="center">
