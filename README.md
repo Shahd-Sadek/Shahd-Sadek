@@ -191,7 +191,7 @@ databases, APIs, and software development practices.
 <p align="center">
 
 <img 
-  src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=6C63FF&style=flat"
+  src="https://komarev.com/ghpvc/?username=Shahd Sadek&label=Profile%20Views&color=6C63FF&style=flat"
 />
 
 </p>
