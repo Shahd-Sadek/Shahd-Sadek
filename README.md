@@ -23,7 +23,7 @@
 
 <p align="center">
   <strong>
-    <span style="color:#6C63FF;">Computer & Information Sciences Student</span>
+    <span style="color:#6C63FF;">Computer Sciences Student</span>
     &nbsp;•&nbsp;
     <span style="color:#00ADB5;">.NET Developer</span>
     &nbsp;•&nbsp;
