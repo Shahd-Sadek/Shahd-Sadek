@@ -38,7 +38,7 @@
 </h2>
 
 <p>
-I'm a Computer and Information Sciences student passionate about
+I'm a Computer Sciences student passionate about
 <strong style="color:#6C63FF;">Full Stack Web Development</strong>.
 </p>
 
@@ -49,9 +49,11 @@ building web applications and improving my skills in backend development,
 databases, APIs, and software development practices.
 </p>
 
-- 🎓 <strong>Computer & Information Sciences Student</strong>
+- 🎓 <strong>Computer Sciences Student</strong>
 - 💻 <strong>Full Stack .NET Web Developer</strong>
 - 🚀 <strong>DEPI / ITC Full Stack .NET Trainee</strong>
+- 🖥️ <strong>ITI Backend .NET Trainee</strong>
+- 🎨 <strong>NTI Web Design Trainee</strong>
 - 🧩 Interested in <strong>Backend Development & Database Design</strong>
 - 📚 Always <strong>Learning & Improving</strong>
 
